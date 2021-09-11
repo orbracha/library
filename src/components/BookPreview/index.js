@@ -1,6 +1,6 @@
 import "./BookPreview.scss";
 export default function BookPreview({ book, onClose }) {
-  const { authors, title, publishedDate, description, subtitle } = book;
+  const { authors, title, publishedDate, description } = book;
   return (
     <div onClick={onClose} className="warp">
       <div

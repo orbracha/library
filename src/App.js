@@ -46,7 +46,7 @@ function App() {
       )}
 
       <div className="logo-container">
-        <img className="logo" src={bookLogo} />
+        <img className="logo" alt="book-logo" src={bookLogo} />
       </div>
 
       <CustomSearch onSearch={setQuery} />
