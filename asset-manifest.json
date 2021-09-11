@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%7Blibrary%7D/static/css/main.02d2fa2b.chunk.css",
+    "main.js": "/%7Blibrary%7D/static/js/main.a51e279b.chunk.js",
+    "main.js.map": "/%7Blibrary%7D/static/js/main.a51e279b.chunk.js.map",
+    "runtime-main.js": "/%7Blibrary%7D/static/js/runtime-main.3b3beba5.js",
+    "runtime-main.js.map": "/%7Blibrary%7D/static/js/runtime-main.3b3beba5.js.map",
+    "static/js/2.eea43e29.chunk.js": "/%7Blibrary%7D/static/js/2.eea43e29.chunk.js",
+    "static/js/2.eea43e29.chunk.js.map": "/%7Blibrary%7D/static/js/2.eea43e29.chunk.js.map",
+    "index.html": "/%7Blibrary%7D/index.html",
+    "static/css/main.02d2fa2b.chunk.css.map": "/%7Blibrary%7D/static/css/main.02d2fa2b.chunk.css.map",
+    "static/js/2.eea43e29.chunk.js.LICENSE.txt": "/%7Blibrary%7D/static/js/2.eea43e29.chunk.js.LICENSE.txt",
+    "static/media/empy-book.5f1c0d66.png": "/%7Blibrary%7D/static/media/empy-book.5f1c0d66.png",
+    "static/media/loading.02cf15cc.gif": "/%7Blibrary%7D/static/media/loading.02cf15cc.gif",
+    "static/media/openlibrary-logo.edbdeb34.svg": "/%7Blibrary%7D/static/media/openlibrary-logo.edbdeb34.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b3beba5.js",
+    "static/js/2.eea43e29.chunk.js",
+    "static/css/main.02d2fa2b.chunk.css",
+    "static/js/main.a51e279b.chunk.js"
+  ]
+}
