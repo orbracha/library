@@ -7,6 +7,10 @@
     top: 0;
     left: 0;
     cursor: pointer;
+
+    @media (max-width: 992px) {
+        position: absolute;
+    }
 }
 
 .book-preview-container {
@@ -20,7 +24,7 @@
     margin: 10% auto;
     text-align: left;
 
-    @media (max-width: 400px) {
+    @media (max-width: 992px) {
         width: 90%;
     }
 
@@ -42,8 +46,8 @@
             margin-right: 5px;
             width: 16%;
 
-            @media (max-width: 400px) {
-                width: 30%;
+            @media (max-width: 992px) {
+                width: 50%;
             }
         }
 
