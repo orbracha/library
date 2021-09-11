@@ -17,18 +17,27 @@
     }
 
     .book-title {
+        padding: 0 5px;
         font-size: 20px;
+        text-overflow: ellipsis;
+        letter-spacing: 0.1rem;
+        // white-space: nowrap;
+        overflow: hidden;
+        color: #313235;
+        font-weight: 600;
         height: 30%;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
     }
 
     .book-img {
         height: 70%;
-        width: 30%;
+        width: 90%;
+        max-width: 10rem;
         margin: 10px auto;
 
-        @media (max-width: 400px) {
-            width: 50%;
-        }
     }
 
 }

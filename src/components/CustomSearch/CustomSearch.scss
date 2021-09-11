@@ -8,9 +8,7 @@
     border: 3px solid #518abe;
     border-radius: 5px;
     outline: none;
-    background: url("https://static.tumblr.com/ftv85bp/MIXmud4tx/search-icon.png");
-    background-repeat: no-repeat;
-    background-position: 5px;
+    padding-left: 5px;
 
     @media (max-width: 400px) {
         width: 100%;
@@ -23,7 +21,7 @@
     .search-input {
         font-size: 24px;
         font-weight: 600;
-        width: 90%;
+        width: 100%;
         height: 45px;
         background: none;
         border: none;
@@ -33,8 +31,8 @@
             outline: none
         }
 
-        @media (max-width: 992px) {
-            width: 80%;
-        }
+        // @media (max-width: 992px) {
+        //     width: 80%;
+        // }
     }
 }
